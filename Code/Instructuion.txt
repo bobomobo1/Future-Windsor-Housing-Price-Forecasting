@@ -1,0 +1,6 @@
+Please Import the .ipynb file to google collaborate. 
+
+Then import the MAIN.csv file you see in this folder.
+
+At the top tool bar select Runtime->Run all
+
